@@ -1,0 +1,16 @@
+{
+  "name": "safe-code-emojili-kayit",
+  "version": "1.0.0",
+  "description": "Safe Code v12 Emojili Kayıt Altyapısı",
+  "main": "safecode.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node safecode.js"
+  },
+  "author": "Salvatore",
+  "license": "ISC"
+}

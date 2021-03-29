@@ -1,0 +1,11 @@
+{
+  "token": "TOKEN",
+  "sahip": "SAHİP ID",
+  "prefix": "PREFİX",
+  "kayıtYetkilisi": "KAYIT YETKİLİSİ ROL ID",
+  "erkekRol": "ERKEK ROL ID",
+  "kızRol": "KIZ ROL ID",
+  "kayıtsızRol": "KAYITSIZ ROL ID",
+  "boosterRol": "BOOSTER ROL ID",
+  "kayıtLogKanalı": "KAYIT LOG KANAL ID"
+}
